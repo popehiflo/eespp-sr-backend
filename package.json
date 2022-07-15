@@ -1,0 +1,20 @@
+{
+  "name": "eespp-sr-backend",
+  "version": "1.0.0",
+  "description": "EESPP SR Backend is a REST API for project the EESPP SR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popehiflo/eespp-sr-backend.git"
+  },
+  "keywords": [],
+  "author": "popehiflo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/popehiflo/eespp-sr-backend/issues"
+  },
+  "homepage": "https://github.com/popehiflo/eespp-sr-backend#readme"
+}
