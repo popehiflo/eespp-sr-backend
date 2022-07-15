@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/popehiflo/eespp-sr-backend/issues"
   },
-  "homepage": "https://github.com/popehiflo/eespp-sr-backend#readme"
+  "homepage": "https://github.com/popehiflo/eespp-sr-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
