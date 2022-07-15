@@ -4,6 +4,7 @@
   "description": "EESPP SR Backend is a REST API for project the EESPP SR",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
